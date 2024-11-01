@@ -17,7 +17,7 @@ Shop is an e-commerce web application designed to provide a seamless online shop
 - **Responsive Design**: Fully responsive for desktop and mobile devices.
 
 ## Demo
-Visit the live version of this project [here](https://firoz-shop.netlify.app/) (update with your actual live demo link if available).
+Visit the live version of this project [here](https://firoz-shop.netlify.app/).
 
 ## Installation
 
